@@ -1,6 +1,8 @@
 # Modifications for LyfieEye200 360 VR Camera
 This version of cam2web ha been modified to tet LyfieEye200 VR360 camera.
 
+![cam2web-LyfieEye200](images/LyfieEye200.png)
+![cam2web-LyfieEye200](images/LyfieEye200-1.png)
 
 ## Linux version
 LyfieEye200 support is implemented for Linux environment which inclues Raspberry Pi and other SBCs.
