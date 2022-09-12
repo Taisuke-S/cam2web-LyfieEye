@@ -4,6 +4,8 @@ This version of cam2web ha been modified to tet LyfieEye200 VR360 camera.
 ![cam2web-LyfieEye200](images/LyfieEye200.png)
 ![cam2web-LyfieEye200](images/LyfieEye200-1.png)
 
+![cam2web-IPGrabber](images/grabber512x256.jpg)
+
 ## Linux version
 LyfieEye200 support is implemented for Linux environment which inclues Raspberry Pi and other SBCs.
 
@@ -93,6 +95,7 @@ Those functions are not implemented yet.
 To get information about version of the cam2web application streaming the camera, the next URL is used
 ```
 http://ip:port/version
+```
 
 ### Access rights
 Accessing JPEG, MJPEG and camera information URLs is available to those who can view the camera. Access to camera configuration URL is available to those who can configure it. The version URL is accessible to anyone. See [Running cam2web](Running.md) for more information about access rights.
